@@ -1,12 +1,15 @@
 # Part 1
 - Before the call of "/add-message":
+
 ![Image](img/ss-1.png)
 
 - After we firstly load webpage we go into url *http://localhost:4000/*, which is deffault page. As soon as we entered the ulr, we call a *handeRequst* methood, which has an input of *URI* which is a continer class which includes path and query of url, user info, and so on. So when we send another request on server, like calling "/add-message", we change a path and query String values in *URI* object.
 
 ---
 - After the call of "/add-message":
+
 ![Image](img/ss-2.png)
+
 - After our call of "/add-message", as mentioned before we changed values in *URI* object what our *handeRequst* methood proceeds. As well as we add adittional String entry to our *stringList*, which is list of all enetries entered by the user. 
 ---
 
@@ -67,8 +70,11 @@ class StringServer {
 ---
 # Part 2
 ![Image](img/sk-1.png)
+
 ![Image](img/sk-2.png)
+
 ![Image](img/sk-3.png)
+
 
 ---
 # Part 3
