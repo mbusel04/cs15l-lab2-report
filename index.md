@@ -10,6 +10,10 @@
 
 ![Image](img/ss-2.png)
 
+- Another call of "/add-message":
+
+![Image](img/ss-3.png)
+
 - After our call of "/add-message", as mentioned before we changed values in *URI* object what our *handeRequst* methood proceeds. As well as we add adittional String entry to our *stringList*, which is list of all enetries entered by the user.
 
 ---
